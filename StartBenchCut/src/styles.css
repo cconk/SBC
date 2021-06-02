@@ -1,1 +1,7 @@
-/* You can add global styles to this file, and also import other style files */
+
+html{
+    height: 100vh;
+    background: 
+    linear-gradient(#292828, #424242),
+    repeating-linear-gradient(rgb(38,38,38) 0%, rgb(40,40,40) 5%);
+}
