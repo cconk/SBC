@@ -1,7 +1,20 @@
+html {
+  height: 100vh;
+  background: (linear, left top, left bottom, from(#292828), to(#424242)), repeating-linear-gradient(#262626 0%, #282828 5%);
+  background: linear-gradient(#292828, #424242), repeating-linear-gradient(#262626 0%, #282828 5%);
+}
 
-html{
-    height: 100vh;
-    background: 
-    linear-gradient(#292828, #424242),
-    repeating-linear-gradient(rgb(38,38,38) 0%, rgb(40,40,40) 5%);
+.squaretitle {
+  height: 500px;
+  width: 100px;
+  border-radius: 10px;
+  background-color: #555;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.title{
+  text-align:center;
+  font-size: 40px;
+  font-family: 'Courier New', Courier, monospace;
 }
