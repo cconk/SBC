@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "name": "Michael Jordan",
+        "Sport": "Basketball",
+        "Position": "SG"
+    },
+    {
+        "id": 2,
+        "name": "Charles Barkley",
+        "Sport": "Basketball",
+        "Position": "PF"
+    },
+    {
+        "id": 3,
+        "name": "Reggie Miller",
+        "Sport": "Basketball",
+        "Position": "SG"
+    },
+    {
+        "id": 4,
+        "name": "Kevin Durant",
+        "Sport": "Basketball",
+        "Position": "SG"
+    },
+    {
+        "id": 5,
+        "name": "Dirk Nowitzki",
+        "Sport": "Basketball",
+        "Position": "PF"
+    },
+    {
+        "id": 6,
+        "name": "John Stockton",
+        "Sport": "Basketball",
+        "Position": "PG"
+    },
+    {
+        "id": 7,
+        "name": "Karl Malone",
+        "Sport": "Basketball",
+        "Position": "SG"
+    },
+    {
+        "id": 8,
+        "name": "Kevin Garnett",
+        "Sport": "Basketball",
+        "Position": "SG"
+    },
+    {
+        "id": 9,
+        "name": "Dwyane Wade",
+        "Sport": "Basketball",
+        "Position": "SG"
+    },
+    {
+        "id": 10,
+        "name": "Scottie Pippen",
+        "Sport": "Basketball",
+        "Position": "SG"
+    },
+    {
+        "id": 11,
+        "name": "Julius Erving",
+        "Sport": "Basketball",
+        "Position": "SG"
+    },
+    {
+        "id": 12,
+        "name": "David Robinson",
+        "Sport": "Basketball",
+        "Position": "C"
+    },
+    {
+        "id": 13,
+        "name": "Kobe Bryant",
+        "Sport": "Basketball",
+        "Position": "SG"
+    },
+    {
+        "id": 14,
+        "name": "Oscar Robertson",
+        "Sport": "Basketball",
+        "Position": "SG"
+    },
+    {
+        "id": 15,
+        "name": "Hakeem Olajuwon",
+        "Sport": "Basketball",
+        "Position": "SG"
+    },
+    {
+        "id": 16,
+        "name": "Larry Bird",
+        "Sport": "Basketball",
+        "Position": "SG"
+    },
+    {
+        "id": 17,
+        "name": "Magic Johnson",
+        "Sport": "Basketball",
+        "Position": "PG"
+    },
+    {
+        "id": 18,
+        "name": "Tim Duncan",
+        "Sport": "Basketball",
+        "Position": "PF"
+    },
+    {
+        "id": 19,
+        "name": "Shaquille O'Neal",
+        "Sport": "Basketball",
+        "Position": "C"
+    },
+    {
+        "id": 20,
+        "name": "Kareem Abdul-Jabbar",
+        "Sport": "Basketball",
+        "Position": "C"
+    },
+    {
+        "id": 21,
+        "name": "LeBron James",
+        "Sport": "Basketball",
+        "Position": "PF"
+    },
+    {
+        "id": 22,
+        "name": "Bill Russell",
+        "Sport": "Basketball",
+        "Position": "C"
+    },
+    {
+        "id": 23,
+        "name": "Wilt Chamberlain",
+        "Sport": "Basketball",
+        "Position": "C"
+    },
+    {
+        "id": 24,
+        "name": "Steph Curry",
+        "Sport": "Basketball",
+        "Position": "PG"
+    },
+    {
+        "id": 25,
+        "name": "Kyrie Irving",
+        "Sport": "Basketball",
+        "Position": "PG"
+    },
+    {
+        "id": 26,
+        "name": "Allen Iverson",
+        "Sport": "Basketball",
+        "Position": "PG"
+    },
+    {
+        "id": 27,
+        "name": "James Harden",
+        "Sport": "Basketball",
+        "Position": "SG"
+    },
+    {
+        "id": 28,
+        "name": "Joel Embid",
+        "Sport": "Basketball",
+        "Position": "C"
+    },
+    {
+        "id": 29,
+        "name": "Klay Thompson",
+        "Sport": "Basketball",
+        "Position": "SG"
+    },
+    {
+        "id": 30,
+        "name": "Giannis Antetokounmpo",
+        "Sport": "Basketball",
+        "Position": "PF"
+    }
+]
