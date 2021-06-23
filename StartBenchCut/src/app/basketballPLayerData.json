@@ -3,180 +3,211 @@
         "id": 1,
         "name": "Michael Jordan",
         "Sport": "Basketball",
-        "Position": "SG"
+        "Position": "SG",
+        "Era": "Retired"
+        
     },
     {
         "id": 2,
         "name": "Charles Barkley",
         "Sport": "Basketball",
-        "Position": "PF"
+        "Position": "PF",
+        "Era": "Retired"
     },
     {
         "id": 3,
         "name": "Reggie Miller",
         "Sport": "Basketball",
-        "Position": "SG"
+        "Position": "SG",
+        "Era": "Retired"
     },
     {
         "id": 4,
         "name": "Kevin Durant",
         "Sport": "Basketball",
-        "Position": "SG"
+        "Position": "SG",
+        "Era": "Modern"
     },
     {
         "id": 5,
         "name": "Dirk Nowitzki",
         "Sport": "Basketball",
-        "Position": "PF"
+        "Position": "PF",
+        "Era": "Modern"
     },
     {
         "id": 6,
         "name": "John Stockton",
         "Sport": "Basketball",
-        "Position": "PG"
+        "Position": "PG",
+        "Era": "Retired"
     },
     {
         "id": 7,
         "name": "Karl Malone",
         "Sport": "Basketball",
-        "Position": "SG"
+        "Position": "SG",
+        "Era": "Retired"
     },
     {
         "id": 8,
         "name": "Kevin Garnett",
         "Sport": "Basketball",
-        "Position": "SG"
+        "Position": "SG",
+        "Era": "Modern"
     },
     {
         "id": 9,
         "name": "Dwyane Wade",
         "Sport": "Basketball",
-        "Position": "SG"
+        "Position": "SG",
+        "Era": "Modern"
     },
     {
         "id": 10,
         "name": "Scottie Pippen",
         "Sport": "Basketball",
-        "Position": "SG"
+        "Position": "SG",
+        "Era": "Retired"
     },
     {
         "id": 11,
         "name": "Julius Erving",
         "Sport": "Basketball",
-        "Position": "SG"
+        "Position": "SG",
+        "Era": "Retired"
     },
     {
         "id": 12,
         "name": "David Robinson",
         "Sport": "Basketball",
-        "Position": "C"
+        "Position": "C",
+        "Era": "Retired"
     },
     {
         "id": 13,
         "name": "Kobe Bryant",
         "Sport": "Basketball",
-        "Position": "SG"
+        "Position": "SG",
+        "Era": "Modern"
     },
     {
         "id": 14,
         "name": "Oscar Robertson",
         "Sport": "Basketball",
-        "Position": "SG"
+        "Position": "SG",
+        "Era": "Retired"
     },
     {
         "id": 15,
         "name": "Hakeem Olajuwon",
         "Sport": "Basketball",
-        "Position": "SG"
+        "Position": "SG",
+        "Era": "Retired"
     },
     {
         "id": 16,
         "name": "Larry Bird",
         "Sport": "Basketball",
-        "Position": "SG"
+        "Position": "SG",
+        "Era": "Retired"
     },
     {
         "id": 17,
         "name": "Magic Johnson",
         "Sport": "Basketball",
-        "Position": "PG"
+        "Position": "PG",
+        "Era": "Retired"
     },
     {
         "id": 18,
         "name": "Tim Duncan",
         "Sport": "Basketball",
-        "Position": "PF"
+        "Position": "PF",
+        "Era": "Modern"
     },
     {
         "id": 19,
         "name": "Shaquille O'Neal",
         "Sport": "Basketball",
-        "Position": "C"
+        "Position": "C",
+        "Era": "Retired"
     },
     {
         "id": 20,
         "name": "Kareem Abdul-Jabbar",
         "Sport": "Basketball",
-        "Position": "C"
+        "Position": "C",
+        "Era": "Retired"
     },
     {
         "id": 21,
         "name": "LeBron James",
         "Sport": "Basketball",
-        "Position": "PF"
+        "Position": "PF",
+        "Era": "Modern"
     },
     {
         "id": 22,
-        "name": "Bill Russell",
+        "name": "Chris Paul",
         "Sport": "Basketball",
-        "Position": "C"
+        "Position": "PG",
+        "Era": "Modern"
     },
     {
         "id": 23,
-        "name": "Wilt Chamberlain",
+        "name": "Luka Doncic",
         "Sport": "Basketball",
-        "Position": "C"
+        "Position": "SG",
+        "Era": "Modern"
     },
     {
         "id": 24,
         "name": "Steph Curry",
         "Sport": "Basketball",
-        "Position": "PG"
+        "Position": "PG",
+        "Era": "Modern"
     },
     {
         "id": 25,
         "name": "Kyrie Irving",
         "Sport": "Basketball",
-        "Position": "PG"
+        "Position": "PG",
+        "Era": "Modern"
     },
     {
         "id": 26,
         "name": "Allen Iverson",
         "Sport": "Basketball",
-        "Position": "PG"
+        "Position": "PG",
+        "Era": "Retired"
     },
     {
         "id": 27,
         "name": "James Harden",
         "Sport": "Basketball",
-        "Position": "SG"
+        "Position": "SG",
+        "Era": "Modern"
     },
     {
         "id": 28,
         "name": "Joel Embid",
         "Sport": "Basketball",
-        "Position": "C"
+        "Position": "C",
+        "Era": "Modern"
     },
     {
         "id": 29,
         "name": "Klay Thompson",
         "Sport": "Basketball",
-        "Position": "SG"
+        "Position": "SG",
+        "Era": "Modern"
     },
     {
         "id": 30,
         "name": "Giannis Antetokounmpo",
         "Sport": "Basketball",
-        "Position": "PF"
+        "Position": "PF",
+        "Era": "Modern"
     }
 ]
