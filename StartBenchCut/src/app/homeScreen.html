@@ -44,29 +44,35 @@
       <div class="game">
         <div class="gameUI">
           <h1>Start Bench Cut</h1>
-          <button>Begin</button>
+          <button (click)="getRandomFBPlayers()">Begin</button>
         </div>
         <div class="cards">
           <div class="card1">
-            <img src="" alt="playerimg">
+            <!-- <img src="" alt="playerimg"> -->
+            <span></span>
             <div class="cardinfo">
-
+              <div>
+                <span>{{selectedFBPlayers[0].name}}</span>
+              </div>
             </div>
-            <h2 class="percentage"></h2>
           </div>
           <div class="card2">
-            <img src="" alt="playerimg">
+            <!-- <img src="" alt="playerimg"> -->
             <div class="cardinfo">
-
+              <div>
+                <span>{{selectedFBPlayers[1].name}}</span>
+              </div>
             </div>
             <h2 class="percentage"></h2>
           </div>
           <div class="card3">
-            <img src="" alt="playerimg">
+            <!-- <img src="" alt="playerimg"> -->
             <div class="cardinfo">
+              <div>
+                <span>{{selectedFBPlayers[2].name}}</span>
+              </div>
               <h2 class="percentage"></h2>
             </div>
-            
           </div>
         </div>
       </div>
