@@ -6,7 +6,6 @@ import * as basketballPlayerData from './basketballPlayerData.json'
   selector: 'app-root',
   templateUrl: './homescreen.html',
   styleUrls: ['./app.component.css'],
-  
 })
 export class AppComponent implements OnInit {
   title = 'StartBenchCut';
